@@ -11,9 +11,9 @@
 5. Once your environment is activated, run the following script to install dependencies into the environment: `pip install -r requirements.txt`.
 
 ## Booting up the application
-1.Activate the virtual environment (the one you created earlier)
-2. Navigate into the "crypto_exchange_rates" child directory
-3. Run python main.py 
+1.Activate the virtual environment (the one you created earlier).
+2. Navigate into the "crypto_exchange_rates" child directory.
+3. Run python main.py .
 
 ## Using the application
 It should not be too difficult since its pretty straight forward. You can check of the boxes of the crypto currencies of your choice and the specific attributes that you need. It will display in a table format. You can also get a copy of that table, just put a valid email address into the input box near the top of the application and click send. Check your junk folder ;)
