@@ -11,6 +11,7 @@
 5. Once your environment is activated, run the following script to install dependencies into the environment: `pip install -r requirements.txt`.
 
 ## Booting up the application
+
 1.Activate the virtual environment (the one you created earlier).
 2. Navigate into the "crypto_exchange_rates" child directory.
 3. Run python main.py .
